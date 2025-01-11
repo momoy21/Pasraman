@@ -1,0 +1,25 @@
+body {
+    overflow-x: hidden;
+    -webkit-text-stroke: 0.2px #000000;
+    font-family: Playfair Display, "Source Sans Pro";
+}
+
+
+
+/* BODY */
+.text-title {
+    visibility: hidden;
+
+
+    @media (min-width: 1024px) {
+        visibility: visible;
+    }
+}
+
+.nav {
+    background-color: #C9B79C;
+
+    @media (min-width: 768px) {
+    background-color: transparent;
+    }
+}

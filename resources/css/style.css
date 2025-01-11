@@ -1,0 +1,134 @@
+body {
+    overflow-x: hidden;
+    -webkit-text-stroke: 0.2px #000000;
+    font-family: Playfair Display, "Source Sans Pro";
+}
+
+.frame {
+    -webkit-text-stroke: 1px #000000;
+    font-family: Island Moments, "Source Sans Pro";
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+/* BODY */
+.background-home {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 10;
+    left: 0;
+    opacity: 0.6;
+}
+
+/*top: 72px;
+        position: absolute;
+        width: 1080px;
+        height: 487px;
+        left: 100px;
+      }*/
+
+.overlap-5 {
+    position: relative;
+    width: auto;
+    height: auto;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.selamat-datang-di {
+    position: absolute;
+    width: auto;
+    top: 200px;
+    left: 50px;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.text-wrapper-6 {
+    position: absolute;
+    width: auto;
+    top: 359px;
+    left: 20px;
+    -webkit-text-stroke: 0.2px #000000;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+/* FOOTER */
+.overlap-6 {
+    background-color: #68380082;
+    width: auto;
+    right: auto;
+    height: 250px;
+}
+
+.text-wrapper-7 {
+    position: absolute;
+    left: 779px;
+    font-weight: 600;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.text-4 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Playfair Display-Medium", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.text-wrapper-8 {
+    font-weight: 500;
+}
+
+.text-wrapper-9 {
+    font-family: "Playfair Display-Regular", Helvetica;
+}
+
+.text-wrapper-10 {
+    position: absolute;
+    left: 569px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.vector-2 {
+    height: 19px;
+    left: 537px;
+    position: absolute;
+    width: 20px;
+}
+
+.text-wrapper-11 {
+    position: absolute;
+    -webkit-text-stroke: 1px #000000;
+    font-family: Island Moments, "Source Sans Pro";
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    margin-left: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
