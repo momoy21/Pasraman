@@ -1,4 +1,6 @@
-<p>Website Pasraman Dharma Sidhi Karya bertujuan untuk meningkatkan implementasi IPTEK (Ilmu Pengetahuan, Teknologi, dan Keterampilan) di masyarakat, khususnya dalam aspek mekanisme, teknologi informasi, dan manajemen. Website ini juga memberikan kemudahan akses informasi kepada masyarakat mengenai Pasraman Dharma Sidhi Karya, sehingga dapat lebih efisien dan efektif dalam memberikan pelayanan pendidikan kepada masyarakat Hindu setempat.<br><br>
+<p> Link Dokumentasi Website: https://drive.google.com/drive/folders/1XhRYFOkWPygWxtz1jpDdwzHvfvqZ67rT?usp=sharing
+    
+Website Pasraman Dharma Sidhi Karya bertujuan untuk meningkatkan implementasi IPTEK (Ilmu Pengetahuan, Teknologi, dan Keterampilan) di masyarakat, khususnya dalam aspek mekanisme, teknologi informasi, dan manajemen. Website ini juga memberikan kemudahan akses informasi kepada masyarakat mengenai Pasraman Dharma Sidhi Karya, sehingga dapat lebih efisien dan efektif dalam memberikan pelayanan pendidikan kepada masyarakat Hindu setempat.<br><br>
 
 <b>Fitur-fitur pada Website Pasraman Dharma Sidhi Karya:</b><br><br>
 
